@@ -41,7 +41,6 @@ def gen_captcha_text_and_image():
 
 
 
-
 if __name__ == '__main__':
     # 测试
     text, image = gen_captcha_text_and_image()
